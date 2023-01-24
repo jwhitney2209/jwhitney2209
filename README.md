@@ -24,7 +24,7 @@
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="./assets/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://discord.com/" target="blank" rel="noreferrer"><img src="./assets/discord.svg" width="36" height="36" alt="Discord" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Apollo GraphQL" /></a>
+<a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"><img src="./assets/apollo-graphql-compact.svg" width="36" height="36" alt="Apollo GraphQL" /></a>
 </p>
 
 ### Social media
