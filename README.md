@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Linux, Docker, AWS**
 
-- 👨‍💻 All of my projects are available at [jasonwhitney.dev](jasonwhitney.dev)
+- 👨‍💻 All of my projects are available at [https://jasonwhitney.dev](jasonwhitney.dev)
 
 - 💬 Ask me about **React, MongoDB, Apollo**
 
