@@ -1,35 +1,24 @@
-### Hi there my name is Jason Whitney👋
+<h1 align="center">Hi 👋, I'm Jason Whitney</h1>
+<h3 align="center">A driven full-stack developer from Texas.</h3>
 
-- 🌍 I’m based in Texas
-- 🌱 I’m currently learning AWS Solutions Architect
-- 🖥️ See my portfolio at [jasonwhitney.dev](https://www.jasonwhitney.dev/)
-- ✉️ You can contact me at [jwhitney.dev@gmail.com](mailto:jwhitney.dev@gmail.com)
-- ⚡ Fun fact: I am self-taught audio engineer, I love producing music and playing shows with my band. 
+- 🌱 I’m currently learning **Linux, Docker, AWS**
 
-### Skills
+- 👨‍💻 All of my projects are available at [jasonwhitney.dev](jasonwhitney.dev)
 
+- 💬 Ask me about **React, MongoDB, Apollo**
+
+- 📫 How to reach me **jwhitney.dev@gmail.com**
+
+- ⚡ Fun fact **I love to perform in musicals and operas in my free time.**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./assets/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="./assets/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="./assets/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="./assets/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./assets/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="./assets/heroku-icon.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="./assets/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="./assets/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://discord.com/" target="blank" rel="noreferrer"><img src="./assets/discord.svg" width="36" height="36" alt="Discord" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="./assets/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"><img src="./assets/apollo-graphql-compact.svg" width="36" height="36" alt="Apollo GraphQL" /></a>
+<a href="https://linkedin.com/in/jwhitney2209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jwhitney2209" height="30" width="40" /></a>
 </p>
 
-### Social media
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="left">
- <a href="https://twitter.com/jasonNotJSON" target="_blank" rel="noreferrer"><img src="./assets/twitter.svg" width="32" height="32" /></a>
- <a href="https://www.linkedin.com/in/jwhitney2209/" target="_blank" rel="noreferrer"><img src="./assets/linkedin.svg" width="32" height="32" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwhitney2209&show_icons=true&locale=en" alt="jwhitney2209" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwhitney2209&" alt="jwhitney2209" /></p>
