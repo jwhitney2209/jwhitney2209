@@ -17,7 +17,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/jwhitney2209' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
+![Static Badge](https://img.shields.io/badge/developer?logo=npm)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwhitney2209&" alt="jwhitney2209" /></p>
