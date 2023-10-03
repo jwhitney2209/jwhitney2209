@@ -19,6 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwhitney2209&" alt="jwhitney2209" /></p>
