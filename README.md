@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Whitney</h1>
 <h3 align="center">A driven full-stack developer from Texas.</h3>
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/Developer)
 
 - 🌱 I’m currently learning **Linux, Docker, AWS**
 
